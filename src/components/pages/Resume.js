@@ -25,3 +25,4 @@ export default function Resume() {
     </>
   );
 }
+// source: https://www.geeksforgeeks.org/how-to-download-pdf-file-in-reactjs/
