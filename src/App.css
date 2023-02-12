@@ -17,17 +17,23 @@
  margin: 20px;
 }
 
+/* FORM */
+
 .form {
-    /* margin: 20px; */
     width: 50%;
   }
-  
-  .form input {
-    display: block;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    width: 100%;
+ 
+.form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
   }
 
 
-  
+/* RESUME */
+
+.resume-object {
+  width: 50%;
+  height: 1000px;
+}
