@@ -22,8 +22,8 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 THEN I receive a notification that this field is required -->
 
 
-WHEN I view the footer
-THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
+<!-- WHEN I view the footer
+THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)  -->
 
 
 WHEN I enter text into the email address field
