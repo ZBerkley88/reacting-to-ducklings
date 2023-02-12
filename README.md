@@ -8,8 +8,8 @@ GIVEN a single-page application portfolio for a web developer
 
 
 <!-- EASY TO DO -->
-WHEN I am presented with the Contact section
-THEN I see a contact form with fields for a name, an email address, and a message
+<!-- WHEN I am presented with the Contact section
+THEN I see a contact form with fields for a name, an email address, and a message -->
 
 WHEN I am presented with the About Me section
 THEN I see a recent photo or avatar of the developer and a short bio about them

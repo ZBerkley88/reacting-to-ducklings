@@ -1,5 +1,4 @@
 import React from 'react';
-import './Form.css';
 
 class Form extends React.Component {
   constructor(props) {
@@ -12,7 +11,7 @@ class Form extends React.Component {
   }
   render() {
     return(
-      <div className="Form">
+      <div className="form">
         <form id="contact-form" onSubmit={this.handleSubmit.bind(this)} method="POST">
           <div className="form-group">
             <label htmlFor="name">Name</label>
