@@ -1,5 +1,24 @@
+/* Universal Elements */
+:root {
+    --dark: #1E1E1E;
+    --not-so-dark: #3A3A3A;
+    --primary: #FFFFFF;
+    --secondary: #564787;
+    --grey: #E3E3E3;
+    --red: #fc5757;
+}
+
+* {
+    background-color: var(--not-so-dark);
+    color: var(--primary);
+}
+
+.page {
+ margin: 20px;
+}
+
 .form {
-    margin: 20px;
+    /* margin: 20px; */
     width: 50%;
   }
   
