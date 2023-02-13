@@ -18,6 +18,7 @@ export default function Resume() {
   };
   return (
     <>
+      <h1 className="page-title">Resume</h1>
       <center>
         <h3>Click on below button to download my resume</h3>
         <button onClick={onButtonClick}>Download Resume</button>

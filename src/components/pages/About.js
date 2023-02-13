@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <div className="page">
-      <h1>About Page</h1>
+      <h1 className="page-title">About</h1>
       <p>
         <img
           class="zacksPic"

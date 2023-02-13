@@ -25,17 +25,16 @@ THEN I receive a notification that this field is required -->
 <!-- WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)  -->
 
+<!-- WHEN I view the header
+THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio -->
 
 WHEN I enter text into the email address field
 THEN I receive a notification if I have entered an invalid email address
 
 
-WHEN I load the portfolio
-THEN I am presented with a page containing a header, a section for content, and a footer
+<!-- WHEN I load the portfolio
+THEN I am presented with a page containing a header, a section for content, and a footer -->
 
-
-WHEN I view the header
-THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
 
 
 <!-- WHEN I view the navigation titles
@@ -46,8 +45,8 @@ THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, an
 THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted -->
 
 
-WHEN I load the portfolio the first time
-THEN the About Me title and section are selected by default
+<!-- WHEN I load the portfolio the first time
+THEN the About Me title and section are selected by default -->
 
 
 WHEN I am presented with the Portfolio section
