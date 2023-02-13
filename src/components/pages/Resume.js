@@ -18,11 +18,13 @@ export default function Resume() {
   };
   return (
     <>
-      <h1 className="page-title">Resume</h1>
-      <center>
-        <h3>Click on below button to download my resume</h3>
-        <button onClick={onButtonClick}>Download Resume</button>
-      </center>
+      <div className="page">
+        <h1 className="page-title">Resume</h1>
+        <div className="page-body resume-container">
+          <h3>Click on below button to download my resume</h3>
+          <button onClick={onButtonClick}>Download Resume</button>
+        </div>
+      </div>
     </>
   );
 }
