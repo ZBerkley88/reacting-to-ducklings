@@ -57,7 +57,7 @@ a:active {
 
 
 .page-body {
-  margin-top: 11rem;
+  margin-top: 14rem;
   margin-left: 2rem;
   padding-left: 0;
   position: relative;
@@ -90,19 +90,14 @@ a:active {
 
 /* PROJECT CARD */
 
-.project-grid {
-  width: 20rem;
-  margin-top: 11rem;
+.container-fluid {
+  width: 100%;
+  margin-top: 14rem;
   margin-left: 2rem;
   padding-left: 0;
   position: relative;
 }
 
-ul .skill-list {
-  padding: 0px;
-  position: absolute;
-  bottom: 1.5rem;
-}
 
 
 .project-card {
@@ -115,12 +110,20 @@ ul .skill-list {
 }
 
 .project-card:hover {
-  margin: auto;
+  /* margin: auto; */
   -webkit-transform: translateY(-10px); /* 10px upwards */
   -moz-transform: translateY(-10px); /* 10px upwards */
   -ms-transform: translateY(-10px); /* 10px upwards */
    transform: translateY(-10px); /* 10px upwards */
    transition: 1s;
+}
+
+
+
+ul .skill-list {
+  padding: 0px;
+  position: absolute;
+  bottom: 1.5rem;
 }
 
 .skill-list li {
@@ -162,7 +165,7 @@ ul .skill-list {
 }
 
 .zacksPic {
-  height: 500px;
+  height: 400px;
 }
 
 /* FOOTER */
