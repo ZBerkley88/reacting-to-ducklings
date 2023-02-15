@@ -27,9 +27,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 <!-- WHEN I view the header
 THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio -->
-
+<!-- 
 WHEN I enter text into the email address field
-THEN I receive a notification if I have entered an invalid email address
+THEN I receive a notification if I have entered an invalid email address -->
 
 
 <!-- WHEN I load the portfolio

@@ -63,120 +63,115 @@ export default function Portfolio() {
             </li>
           </a>
 
-          {/* PLACEHOLDER */}
+          {/* FLYCAST TRIP PLANNER */}
           <a
-            href="google.com"
+            href="https://zberkley88.github.io/flycast-trip-planner/"
             target="_blank"
             rel="noreferrer"
             className="col-12 col-md-4"
           >
             <li className="project-card">
-              <h3 className="project-title">Placeholder</h3>
+              <h3 className="project-title">FlyCast Trip Planner</h3>
               <div className="project-description">
                 <p>
-                  {" "}
-                  Placeholder text
+                  A web application that retrieves flight and weather
+                  information based on a user's search queries.
                 </p>
               </div>
               <footer>
                 <ul className="skill-list">
-                  <li>skillOne</li>
-                  <li>skillTwo</li>
-                  <li>skillThree</li>
+                  <li>JavaScript</li>
+                  <li>HTML</li>
+                  <li>API</li>
                 </ul>
               </footer>
             </li>
           </a>
-
-
         </div>
-
-        
       </ul>
 
       <ul className="container-fluid">
         <div className="row">
-          {/* PLACEHOLDER */}
+          {/* E-COMMERCE BACK END */}
           <a
-            href="google.com"
+            href="https://github.com/ZBerkley88/ecommerce-back-end"
             target="_blank"
             rel="noreferrer"
             className="col-12 col-md-4"
           >
             <li className="project-card">
-              <h3 className="project-title">Placeholder</h3>
+              <h3 className="project-title">E-Commerce Back End</h3>
               <div className="project-description">
                 <p>
-                  {" "}
-                  Placeholder text
+                  This is a back-end for an e-commerce site which uses
+                  Express.js and Sequelize to interact with a MySQL database.
                 </p>
               </div>
               <footer>
                 <ul className="skill-list">
-                  <li>skillOne</li>
-                  <li>skillTwo</li>
-                  <li>skillThree</li>
+                  <li>SQL</li>
+                  <li>Sequelize</li>
+                  <li>Express</li>
                 </ul>
               </footer>
             </li>
           </a>
 
-          {/* PLACEHOLDER */}
+          {/* THE INFOBAHN */}
           <a
-            href="google.com"
+            href="https://github.com/ZBerkley88/the-infobahn"
             target="_blank"
             rel="noreferrer"
             className="col-12 col-md-4"
           >
             <li className="project-card">
-              <h3 className="project-title">Placeholder</h3>
+              <h3 className="project-title">The InfoBahn</h3>
               <div className="project-description">
                 <p>
-                  {" "}
-                  Placeholder text
+                  The InfoBahn is an API for social media applications. It
+                  allows users to store and retrieve users, their thoughts, and
+                  their reactions to users' thoughts.
                 </p>
               </div>
               <footer>
                 <ul className="skill-list">
-                  <li>skillOne</li>
-                  <li>skillTwo</li>
-                  <li>skillThree</li>
+                  <li>MongoDB</li>
+                  <li>JavaScript</li>
+                  <li>Express</li>
                 </ul>
               </footer>
             </li>
           </a>
 
-          {/* PLACEHOLDER */}
+          {/* TEAM BUILDING EXERCISE */}
           <a
-            href="google.com"
+            href="https://github.com/ZBerkley88/team-building-exercise"
             target="_blank"
             rel="noreferrer"
             className="col-12 col-md-4"
           >
             <li className="project-card">
-              <h3 className="project-title">Placeholder</h3>
+              <h3 className="project-title">Node Team Builder</h3>
               <div className="project-description">
                 <p>
                   {" "}
-                  Placeholder text
+                  The purpose of this project was to create a Node.js command
+                  line application that takes information about employees and
+                  generates an HTML webpage the displays their information on
+                  individual cards.{" "}
                 </p>
               </div>
               <footer>
                 <ul className="skill-list">
-                  <li>skillOne</li>
-                  <li>skillTwo</li>
-                  <li>skillThree</li>
+                  <li>Node</li>
+                  <li>HTML</li>
+                  <li>JavaScript</li>
                 </ul>
               </footer>
             </li>
           </a>
-
-
         </div>
-
-        
       </ul>
-
     </div>
   );
 }
