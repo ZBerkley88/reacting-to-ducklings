@@ -2,9 +2,6 @@
 
 A portfolio constructed using React. 
 
-![Screenshot](https://github.com/ZBerkley88/reacting-to-ducklings/blob/main/public/Screenshot%202023-02-14%20224937.png)
-
-
 ## Table of Contents
 - [Deployed Application](#deployed-application)
 - [Installation](#installation)
@@ -12,6 +9,8 @@ A portfolio constructed using React.
 - [License](#license)
 - [Planned Features](#planned-features)
 - [Questions](#questions)
+
+![Screenshot](https://github.com/ZBerkley88/reacting-to-ducklings/blob/main/public/Screenshot%202023-02-14%20224937.png)
 
 ## Deployed Application
 
