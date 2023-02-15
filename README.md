@@ -2,7 +2,7 @@
 
 A portfolio constructed using React. 
 
-
+![Screenshot](https://github.com/ZBerkley88/reacting-to-ducklings/blob/main/public/Screenshot%202023-02-14%20224937.png)
 
 
 ## Table of Contents
